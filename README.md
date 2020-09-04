@@ -5,7 +5,7 @@ A simple class for obtaining the colour temperatures of stars, used in my univer
 
 I decided to store the colour mappings from the data of [this site](http://www.vendian.org/mncharity/dir3/starcolor/details.html) as a Java class, which also contains a function to retrieve the closest entry given a B-V index. It's quick and dirty, but it works.
 
-# Usage
+## Usage
 Initialize a `StarColor` object using:
 ```java
 StarColor sc = new StarColor();
