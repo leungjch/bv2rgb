@@ -8,7 +8,7 @@ I decided to store the colour mappings from the data of [this site](http://www.v
 ## Usage
 Initialize a `StarColor` object using:
 ```java
-StarColor sc = new StarColor();
+StarColors sc = new StarColors();
 ```
 To convert B-V index of a hot blue star (bv=-0.4) to RGB, call:
 ```java
